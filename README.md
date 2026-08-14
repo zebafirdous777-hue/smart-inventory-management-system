@@ -31,7 +31,7 @@ A console-based Inventory Management System developed in **C Programming** using
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/smart-inventory-management-system.git
+git clone https://github.com/zebafirdous777-hue/smart-inventory-management-system.git
 ```
 
 2. Compile
